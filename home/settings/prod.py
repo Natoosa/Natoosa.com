@@ -10,9 +10,9 @@ WSGI_APPLICATION = 'home.wsgi.application'
 DATABASES = {
     'default': {
     'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'natoosa_db',
-    'USER': 'user_natoosa',
-    'PASSWORD': 'db_password*',
+    'NAME': 'natoosa_com_N91rjQ3M',
+    'USER': 'natoosacomeUsV',
+    'PASSWORD': '5LSuZfagEbhweKzj9vCkGiRN',
     'HOST': 'localhost',
     'PORT': '3306',
     }
